@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+header{
+    border: 1px solid pink;
+    padding: 70px;
+}
+
+h1{
+    border: 1px solid red;
+    height: 50px;
+    display: inline;
+}
+
+p{
+    border: 1px solid purple;
+    margin: 20px;
+    display: inline;
+}
+
+span{
+    border: 1px solid khaki;
+    display: block;
+}
